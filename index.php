@@ -55,7 +55,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="150">
-      <img class="img-fluid w-50" src="/assets/img/logo-ijr.png" alt="logo">
+      <img class="img-fluid w-50" src="assets/img/logo-ijr.png" alt="logo">
       <h1>¡Bienvenidos!</h1>
       <p>Preparate para <span class="typed" data-typed-items="Disfrutar, Meditar, Jugar, Compartir"></span></p>
       <div class="social-links">
