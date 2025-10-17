@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Retiro 2023 - Iglesia Jesucristo Rey</title>
+  <title>Retiro 2025 - Iglesia Jesucristo Rey</title>
   <meta content="" name="Web del Retiro de Iglesia Jesucristo Rey con información sobre el mismo y pautas de convivencia.">
   <meta content="" name="keywords">
 
@@ -26,14 +26,6 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: MyResume
-  * Updated: Sep 18 2023 with Bootstrap v5.3.2
-  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -43,10 +35,10 @@
   <i class="bi bi-list mobile-nav-toggle d-lg-none"></i>
   <!-- ======= Header ======= -->
   <header id="header" class="d-flex flex-column justify-content-center">
-    
-    
+
+
     <nav id="navbar" class="navbar nav-menu">
-      
+
       <ul>
         <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Inicio</span></a></li>
         <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>Orador</span></a></li>
@@ -63,7 +55,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="150">
-      <img class="img-fluid" src="https://i.postimg.cc/63x58vZ7/logoijr.png" alt="logo">
+      <img class="img-fluid w-50" src="/assets/img/logo-ijr.png" alt="logo">
       <h1>¡Bienvenidos!</h1>
       <p>Preparate para <span class="typed" data-typed-items="Disfrutar, Meditar, Jugar, Compartir"></span></p>
       <div class="social-links">
@@ -82,13 +74,17 @@
 
         <div class="section-title">
           <h1>Orador Invitado</h1>
-          <h2>Pastor Alejandro Peluffo</h2>
-          <p>Alejandro Peluffo sirve como pastor en la Iglesia Bautista Misionera en Lobos desde el 19 de mayo de 1990. Casado con Mónica desde 1988. Tienen tres hijos: Joel (1990), Carolina (1993) y Juan Pablo (2000). Tiene una maestría en Divinidades (2010) y una en Teología (2013) en The Masters’ Seminary. Durante seis años, sirvió bajo el liderazgo del pastor Henry Tolopilo en el ministerio español de Grace Community Church, enseñando en el ministerio de matrimonios y la escuela dominical. Además, dirige el Instituto de Expositores en Argentina (IDEAR), desde 2013.</p>
+          <h2>Pastor Aldo Fontao</h2>
+          <p>Aldo Fontao nació el 13 de enero de 1948. Médico cardiólogo y del deporte, docente e investigador, dedicó sus primeros años al estudio del cuerpo humano. Más tarde, su búsqueda espiritual lo llevó a formarse en teología en el Instituto Bíblico Buenos Aires, donde descubrió su llamado al liderazgo cristiano.
+
+            Dirigió el Instituto Haggai en Argentina, formando líderes con visión transformadora, y fue pastor en la Iglesia Presbiteriana San Andrés de Olivos. Desde 2001 integra Haggai International, donde ha entrenado a miles de líderes de más de 130 naciones.
+
+            Ha enseñado en América Latina, Asia y África, compartiendo sobre liderazgo, evangelismo y teología, y es autor de la novela “Secretos de Viernes”, una historia que transmite el poder del mensaje del evangelio.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-12 text-center">
-            <img src="assets/img/profile-img.jpg" class="img-fluid text-center" alt="pastor alejandro peluffo y esposa foto">
+            <img src="assets/img/profile-img.png" class="img-fluid text-center w-50" alt="pastor aldo fontao">
           </div>
         </div>
       </div>
@@ -105,25 +101,24 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <h3 class="resume-title">Sábado 4/11</h3>
-            <div class="resume-item pb-0">
-              <h4>9:30 hs a 11 hs</h4>
+            <h3 class="resume-title">Sábado 18/10</h3>
+            <div class="resume-item">
+              <h4>9 hs a 11 hs</h4>
               <h5>RECEPCIÓN</h5>
               <p><em>LUGAR: LOBBY DEL HOTEL</em></p>
             </div>
-
             <div class="resume-item">
               <h4>11 hs a 13 hs</h4>
               <h5>BIENVENIDA CON ALABANZA Y CONFERENCIA 1</h5>
               <p><em>LUGAR: SALÓN</em></p>
             </div>
             <div class="resume-item">
-              <h4>13 hs a 14:30 hs</h4>
+              <h4>13 hs a 14 hs</h4>
               <h5>ALMUERZO</h5>
               <p><em>LUGAR: SALÓN</em></p>
             </div>
             <div class="resume-item">
-              <h4>14:30 hs a 17:30 hs</h4>
+              <h4>14 hs a 17 hs</h4>
               <h5>PARQUE ACUATICO: RECREACIÓN CON PROPÓSITO</h5>
               <p><em>LUGAR: PARQUE ACUÁTICO</em></p>
             </div>
@@ -134,16 +129,16 @@
             </div>
             <div class="resume-item">
               <h4>18 hs a 19 hs</h4>
-              <h5>TIEMPO LIBRE</h5>
+              <h5>TIEMPO LIBRE / CHARLA CON SIERVOS</h5>
             </div>
             <div class="resume-item">
               <h4>19 hs a 20 hs</h4>
-              <h5>CONFERENCIA 2</h5>
+              <h5>ALABANZA Y CONFERENCIA 2</h5>
               <p><em>LUGAR: SALÓN</em></p>
             </div>
             <div class="resume-item">
               <h4>20 hs a 21 hs</h4>
-              <h5>PREGUNTAS / TIEMPO LIBRE</h5>
+              <h5>TIEMPO LIBRE</h5>
               <p><em>LUGAR: SALÓN</em></p>
             </div>
             <div class="resume-item">
@@ -152,13 +147,13 @@
               <p><em>LUGAR: SALÓN</em></p>
             </div>
             <div class="resume-item">
-              <h4>22 hs a 23:30 hs</h4>
-              <h5>FOGÓN / ACTIVIDAD RECREATIVA</h5>
-              <p><em>LUGAR: PARQUE ACUÁTICO / SALÓN</em></p>
+              <h4>22 hs a 23 hs</h4>
+              <h5>ACTIVIDAD DÍA DE LA MADRE</h5>
+              <p><em>LUGAR: SALÓN</em></p>
             </div>
           </div>
           <div class="col-lg-6">
-            <h3 class="resume-title">Domingo 5/11</h3>
+            <h3 class="resume-title">Domingo 19/10</h3>
             <div class="resume-item">
               <h4>8 hs a 10 hs</h4>
               <h5>DESAYUNO</h5>
@@ -175,32 +170,35 @@
               <h5>TIEMPO LIBRE</h5>
             </div>
             <div class="resume-item">
-              <h4>13 hs a 14:30 hs</h4>
+              <h4>13 hs a 14 hs</h4>
               <h5>ALMUERZO</h5>
               <p><em>LUGAR: SALON</em></p>
             </div>
             <div class="resume-item">
-              <h4>14:30 hs a 17:30 hs</h4>
+              <h4>14 hs a 16 hs</h4>
               <h5>DEPORTES</h5>
               <p><em>LUGAR: CANCHAS DE FUTBOL, PADDLE, TENIS, ETC.</em></p>
             </div>
             <div class="resume-item">
-              <h4>17:30 hs a 18:30 hs</h4>
-              <h5>CONFERENCIA 4</h5>
+              <h4>16 hs a 16:30 hs</h4>
+              <h5>CHECK OUT HABITACIONES</h5>
+            </div>
+            <div class="resume-item">
+              <h4>16:30 hs a 18 hs</h4>
+              <h5>ALABANZA Y CONFERENCIA 4</h5>
               <p><em>LUGAR: SALON</em></p>
             </div>
             <div class="resume-item">
-              <h4>18:30 hs a 19:30 hs</h4>
+              <h4>18 hs a 18:30 hs</h4>
               <h5>MERIENDA</h5>
               <p><em>LUGAR: SALON</em></p>
             </div>
             <div class="resume-item">
-              <h4>19:30 hs a 20 hs</h4>
+              <h4>18:30</h4>
               <h5>FIN DEL RETIRO</h5>
             </div>
           </div>
         </div>
-      </div>
     </section><!-- End Resume Section -->
 
     <!-- ======= Portfolio Section ======= -->
@@ -227,7 +225,7 @@
               </div>
             </div>
           </div>
-          
+
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Services Section ======= -->
@@ -434,19 +432,19 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-<!-- ======= Contact Section ======= -->
-<section id="redwifi" class="contact">
-  <div class="container" data-aos="fade-up">
+    <!-- ======= Contact Section ======= -->
+    <section id="redwifi" class="contact">
+      <div class="container" data-aos="fade-up">
 
-    <div class="section-title">
-      <h2>Conectate al Wifi del Hotel</h2>
-    </div>
+        <div class="section-title">
+          <h2>Conectate al Wifi del Hotel</h2>
+        </div>
 
-    <div class="row mt-1">
+        <div class="row mt-1">
 
           <div class="phone text-center">
-            
-            <h3>RED: "EL NORTE  HOTEL" </h3>
+
+            <h3>RED: "EL NORTE HOTEL" </h3>
             <h3>CONTRASEÑA: elnortehotel</h3>
           </div>
 
@@ -454,10 +452,10 @@
 
       </div>
 
-    </div>
+      </div>
 
-  </div>
-</section><!-- End Contact Section -->
+      </div>
+    </section><!-- End Contact Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -469,37 +467,36 @@
 
         <div class="row mt-1">
 
-              <div class="phone text-center">
-                <a href="https://api.whatsapp.com/send?phone=+5493516762005&text=%C2%A1Hola%20Gaby!%20Estoy%20en%20el%20retiro%20de%20la%20iglesia%20y%20tengo%20una%20duda..."><button type="button" class="btn btn-primary"><span class="bi bi-whatsapp"></span> Enviar Mensaje</button></a>
+          <div class="phone text-center">
+            <a href="https://api.whatsapp.com/send?phone=+5493516762005&text=%C2%A1Hola%20Gaby!%20Estoy%20en%20el%20retiro%20de%20la%20iglesia%20y%20tengo%20una%20duda..."><button type="button" class="btn btn-primary"><span class="bi bi-whatsapp"></span> Enviar Mensaje</button></a>
 
-                <p class="mt-3">¿No Funciona el Botón?</p>
-                <p>Comunicate con Gaby Pinus al: <span type="phone">+5493516762005</span></p>
-              </div>
-
-            </div>
-
+            <p class="mt-3">¿No Funciona el Botón?</p>
+            <p>Comunicate con Gaby Pinus al: <span type="phone">+5493516762005</span></p>
           </div>
 
         </div>
 
       </div>
+
+      </div>
     </section><!-- End Contact Section -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+      <div class="container">
+        <h3>¡Disfrutemos Juntos!</h3>
+        <p>El Señor nos bendiga en este hermoso tiempo y pueda hacernos crecer y parecernos más a Cristo</p>
+        <div class="social-links">
+
+          <a href="https://www.facebook.com/IglesiaJesucristoRey/" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/iglesiajesucristoreyoficial/?hl=es" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://api.whatsapp.com/send?phone=+5493516762005&text=%C2%A1Hola%20Gaby!%20Estoy%20en%20el%20retiro%20de%20la%20iglesia%20y%20tengo%20una%20duda..." class="google-plus"><i class="bx bxl-whatsapp"></i></a>
+        </div>
+      </div>
+    </footer><!-- End Footer -->
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="container">
-      <h3>¡Disfrutemos Juntos!</h3>
-      <p>El Señor nos bendiga en este hermoso tiempo y pueda hacernos crecer y parecernos más a Cristo</p>
-      <div class="social-links">
-        
-        <a href="https://www.facebook.com/IglesiaJesucristoRey/" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://www.instagram.com/iglesiajesucristoreyoficial/?hl=es" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://api.whatsapp.com/send?phone=+5493516762005&text=%C2%A1Hola%20Gaby!%20Estoy%20en%20el%20retiro%20de%20la%20iglesia%20y%20tengo%20una%20duda..." class="google-plus"><i class="bx bxl-whatsapp"></i></a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
