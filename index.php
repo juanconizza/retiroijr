@@ -12,6 +12,11 @@
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <!-- Imagen de OpenGraph -->
+  <meta property="og:title" content="Retiro 2025 - Iglesia Jesucristo Rey">
+  <meta property="og:description" content="Web del Retiro de Iglesia Jesucristo Rey con información sobre el mismo y pautas de convivencia.">
+  <meta property="og:image" content="assets/img/favicon.png">
+  <meta property="og:url" content="https://www.iglesiajesucristorey.com/retiro2025">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -25,7 +30,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
 </head>
 
 <body>
@@ -55,7 +60,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="150">
-      <img class="img-fluid w-50" src="assets/img/logo-ijr.png" alt="logo">
+      <img class="img-fluid logo-hero" src="assets/img/logo-ijr.png" alt="logo">
       <h1>¡Bienvenidos!</h1>
       <p>Preparate para <span class="typed" data-typed-items="Disfrutar, Meditar, Jugar, Compartir"></span></p>
       <div class="social-links">
@@ -71,6 +76,7 @@
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
+
 
         <div class="section-title">
           <h1>Orador Invitado</h1>
@@ -118,8 +124,8 @@
               <p><em>LUGAR: SALÓN</em></p>
             </div>
             <div class="resume-item">
-              <h4>14 hs a 17 hs</h4>
-              <h5>PARQUE ACUATICO: RECREACIÓN CON PROPÓSITO</h5>
+              <h4>14 hs a 17:30 hs</h4>
+              <h5>PARQUE ACUATICO</h5>
               <p><em>LUGAR: PARQUE ACUÁTICO</em></p>
             </div>
             <div class="resume-item">
